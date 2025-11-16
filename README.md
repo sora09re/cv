@@ -11,7 +11,7 @@
 
 ## 概要
 
-- エンジニア歴：約 3 年
+- エンジニア歴：約 3 年半
 - 主な担当領域：フロントエンド・バックエンド
 - 主な担当工程：基本設計 / 詳細設計 / 実装 / テスト
 - 得意技術：フロントエンドは TypeScript, Next.js、バックエンドは TypeScript, Node.js
@@ -24,7 +24,7 @@ TypeScript | JavaScript | HTML | CSS | Java | Ruby | C | C#
 
 ### フレームワーク等
 
-Next.js | Fastify | Jest | NestJS | Spring Boot | jQuery | Ruby on Rails | Struts
+Next.js | Fastify | Vitest | Jest | NestJS | Spring Boot | jQuery | Ruby on Rails | Struts
 
 ### RDB/NoSQL
 
@@ -32,13 +32,23 @@ PostgreSQL | SQL Server | SQLite
 
 ### SaaS/PaaS
 
-GitHub
+GitHub | Supabase
 
 ### その他
 
 Terraform | Docker | nginx | Apache | Tomcat | SASS
 
 ## 主な業務経歴
+
+### 飲食店向け経営状況診断 SaaS の新規開発【TypeScript】(2025 年 4 月 〜 2025 年 8 月)
+
+【プロジェクト概要】飲食店・コンサルティングが使用する
+
+【業務内容】UI デザイン、フロントエンド、バックエンドの要件のすり合わせから設計/実装を担当。
+
+【発揮したバリュー】生成 AI を積極的に活用した開発体制の構築に貢献した。プロジェクト全体で効率的かつ品質の高い開発を実現するために、コーディングルールやカスタムコマンドを整備し、チームが統一的に AI を活用できる環境を整えた。また、コードレビューを通じて品質向上とナレッジ共有を促進し、開発メンバー全体のスキル向上に寄与した。さらに、アーキテクチャおよびライブラリの選定を主導し、長期的な保守性と拡張性を考慮した技術基盤の確立に貢献した。
+
+---
 
 ### 出願システムの新規開発【TypeScript】(2024 年 4 月 〜 2025 年 3 月)
 

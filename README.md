@@ -40,7 +40,7 @@ Terraform | Docker | nginx | Apache | Tomcat | SASS
 
 ## 主な業務経歴
 
-### 飲食店向け経営状況診断 SaaS の新規開発【TypeScript】(2025 年 4 月 〜 2025 年 8 月)
+### 飲食店向け経営状況診断 SaaS の新規開発【TypeScript】(2025 年 4 月 〜 2025 年 7 月)
 
 【プロジェクト概要】飲食店・コンサルティングが使用する経営状況診断 SaaS の新規開発を担当。これまでの経営状況データを元に AI によって VRIO, 5Forces, SWOT などの分析を行えるサービス。
 
